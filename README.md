@@ -7,7 +7,7 @@ This Python script opens a list of URLs in your default web browser. It can be u
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/url-opener.git
+   git clone https://github.com/anonithrax/url-opener.git
    ```
 
 2. Navigate to the project directory:
