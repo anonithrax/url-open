@@ -1,6 +1,3 @@
-Sure, here's a simple `README.md` for the project:
-
-```markdown
 # URL Opener
 
 This Python script opens a list of URLs in your default web browser. It can be used to open any URLs, including GitHub repositories, Spotify songs, or any other web pages.
@@ -36,7 +33,6 @@ You can customize this script to open different types of URLs. For example, to o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 This `README.md` provides basic information about the project, including how to use and customize the script. You'll need to replace `https://github.com/yourusername/url-opener.git` with the actual URL of your GitHub repository.
 
