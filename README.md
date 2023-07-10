@@ -33,7 +33,3 @@ You can customize this script to open different types of URLs. For example, to o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-This `README.md` provides basic information about the project, including how to use and customize the script. You'll need to replace `https://github.com/yourusername/url-opener.git` with the actual URL of your GitHub repository.
-
-Remember, a good `README.md` is important for making your project accessible and understandable to others. It's often the first thing people see when they visit your repository, so it's worth spending some time to make it clear and informative.
